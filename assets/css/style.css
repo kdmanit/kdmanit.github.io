@@ -229,6 +229,11 @@ section.resume-section .resume-item .resume-date {  }
 .photoshop   { width:75%;  -moz-animation:photoshop 2s ease-out;   -webkit-animation:photoshop 2s ease-out;   }
 .dreamweaver { width:85%; -moz-animation:dreamweaver 2s ease-out; -webkit-animation:dreamweaver 2s ease-out; }
 .docker   {width:70%;  -moz-animation:docker 2s ease-out;       -webkit-animation:container 2s ease-out;    }
+.backend       { width:80%;  -moz-animation:html5 2s ease-out;       -webkit-animation:html5 2s ease-out;       }
+.ui       { width:70%;  -moz-animation:html5 2s ease-out;       -webkit-animation:html5 2s ease-out;       }
+.deploy       { width:70%;  -moz-animation:html5 2s ease-out;       -webkit-animation:html5 2s ease-out;       }
+.db       { width:80%;  -moz-animation:html5 2s ease-out;       -webkit-animation:html5 2s ease-out;       }
+.tools       { width:80%;  -moz-animation:html5 2s ease-out;       -webkit-animation:html5 2s ease-out;       }
 
 @-moz-keyframes html5       { 0%  { width:0px;} 100%{ width:80%;}  }
 @-moz-keyframes docker       { 0%  { width:0px;} 100%{ width:70%;}  }
